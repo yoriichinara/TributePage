@@ -15,6 +15,11 @@ figure {
     margin: 0;
     display: block;
 }
+
+img {
+    text-align: center;   
+}
+
 ul {
     text-align: justify;
     margin: 1em 15%;
